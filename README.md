@@ -1,6 +1,6 @@
 # Analysis on Amazon Prime Videos using Tableau Dashboard
 
-![Dashboard 1](https://public.tableau.com/app/profile/priyank.mandal/viz/AmazonPrime_17271677623610/Dashboard1#1)
+![Dashboard 1](https://github.com/priyank-82/Analysis-of-Amazon-Prime-Videos/blob/main/Analysis%20on%20Amazon%20Prime%20Videos.png)
 
 https://public.tableau.com/app/profile/priyank.mandal/viz/AmazonPrime_17271677623610/Dashboard1#1
 
