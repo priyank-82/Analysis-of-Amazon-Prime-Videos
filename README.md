@@ -2,7 +2,7 @@
 
 ![Dashboard 1](https://public.tableau.com/app/profile/priyank.mandal/viz/AmazonPrime_17271677623610/Dashboard1#1)
 
-https://public.tableau.com/app/profile/bittu.kumar.singh/viz/ANALYSISONAMAZONPRIMEVIDEOS/Dashboard1
+https://public.tableau.com/app/profile/priyank.mandal/viz/AmazonPrime_17271677623610/Dashboard1#1
 
 Introduction:
 This is an overview of the analysis conducted on Amazon Prime Videos using a Tableau dashboard. The objective of the analysis is to gain insights into the performance and popularity of content on the Amazon Prime Videos platform. The Tableau dashboard allows users to interactively explore and visualize various metrics related to movies and TV shows available on the platform.
